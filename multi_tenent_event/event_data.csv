@@ -1,0 +1,201 @@
+event_name,event_properties,tenant_id,user_id,event_time
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/37.0.818.0 Safari/534.0"", ""ip_address"": ""139.80.221.230""}",TNT-0162,USR-00037,2026-06-05 08:40:02
+checkout_completed,"{""item_id"": ""PRD-238"", ""price"": 472.54, ""currency"": ""USD""}",TNT-0135,USR-00110,2026-06-03 18:43:02
+item_search,"{""search_query"": ""main"", ""results_count"": 28}",TNT-0090,USR-00133,2026-06-01 10:51:02
+item_search,"{""search_query"": ""play"", ""results_count"": 37}",TNT-0186,USR-00044,2026-05-30 20:54:02
+page_view,"{""page_url"": ""/products/physical"", ""referrer"": ""hunt.com"", ""duration_seconds"": 7}",TNT-0027,USR-00058,2026-05-31 20:27:02
+checkout_completed,"{""item_id"": ""PRD-764"", ""price"": 469.52, ""currency"": ""USD""}",TNT-0099,USR-00055,2026-06-02 03:52:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/26.0.828.0 Safari/534.1"", ""ip_address"": ""170.104.124.23""}",TNT-0103,USR-00122,2026-06-02 06:55:02
+checkout_completed,"{""item_id"": ""PRD-337"", ""price"": 101.29, ""currency"": ""USD""}",TNT-0123,USR-00061,2026-05-31 22:25:02
+page_view,"{""page_url"": ""/products/power"", ""referrer"": ""phillips.com"", ""duration_seconds"": 98}",TNT-0042,USR-00100,2026-05-30 02:54:02
+page_view,"{""page_url"": ""/products/mean"", ""referrer"": ""anderson-zimmerman.com"", ""duration_seconds"": 86}",TNT-0160,USR-00159,2026-05-31 17:59:02
+checkout_completed,"{""item_id"": ""PRD-569"", ""price"": 136.27, ""currency"": ""USD""}",TNT-0044,USR-00082,2026-06-04 13:17:02
+add_to_cart,"{""item_id"": ""PRD-728"", ""price"": 144.4, ""currency"": ""USD""}",TNT-0022,USR-00012,2026-06-02 14:55:02
+item_search,"{""search_query"": ""center"", ""results_count"": 20}",TNT-0199,USR-00182,2026-05-28 15:32:02
+item_search,"{""search_query"": ""avoid"", ""results_count"": 38}",TNT-0021,USR-00168,2026-05-31 12:34:02
+add_to_cart,"{""item_id"": ""PRD-696"", ""price"": 187.23, ""currency"": ""USD""}",TNT-0072,USR-00177,2026-05-29 13:26:02
+checkout_completed,"{""item_id"": ""PRD-142"", ""price"": 386.05, ""currency"": ""USD""}",TNT-0161,USR-00108,2026-06-03 12:54:02
+add_to_cart,"{""item_id"": ""PRD-176"", ""price"": 81.25, ""currency"": ""USD""}",TNT-0129,USR-00096,2026-05-29 11:18:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Windows NT 10.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/32.0.854.0 Safari/536.1"", ""ip_address"": ""105.194.133.52""}",TNT-0048,USR-00006,2026-06-02 14:21:02
+item_search,"{""search_query"": ""note"", ""results_count"": 19}",TNT-0179,USR-00022,2026-06-04 11:17:02
+page_view,"{""page_url"": ""/products/against"", ""referrer"": ""thompson.com"", ""duration_seconds"": 215}",TNT-0026,USR-00145,2026-06-02 09:21:02
+add_to_cart,"{""item_id"": ""PRD-989"", ""price"": 461.14, ""currency"": ""USD""}",TNT-0039,USR-00173,2026-06-04 03:52:02
+item_search,"{""search_query"": ""project"", ""results_count"": 21}",TNT-0069,USR-00116,2026-05-30 18:00:02
+add_to_cart,"{""item_id"": ""PRD-491"", ""price"": 12.11, ""currency"": ""USD""}",TNT-0122,USR-00002,2026-05-28 20:22:02
+page_view,"{""page_url"": ""/products/wait"", ""referrer"": ""brooks.com"", ""duration_seconds"": 125}",TNT-0147,USR-00169,2026-06-04 18:28:02
+page_view,"{""page_url"": ""/products/hard"", ""referrer"": ""myers-berry.com"", ""duration_seconds"": 193}",TNT-0006,USR-00073,2026-06-03 03:17:02
+item_search,"{""search_query"": ""middle"", ""results_count"": 4}",TNT-0119,USR-00152,2026-06-01 10:34:02
+checkout_completed,"{""item_id"": ""PRD-454"", ""price"": 51.09, ""currency"": ""USD""}",TNT-0097,USR-00043,2026-06-04 18:18:02
+checkout_completed,"{""item_id"": ""PRD-569"", ""price"": 72.61, ""currency"": ""USD""}",TNT-0015,USR-00003,2026-06-04 05:20:02
+page_view,"{""page_url"": ""/products/certainly"", ""referrer"": ""williams.info"", ""duration_seconds"": 261}",TNT-0077,USR-00086,2026-06-02 17:40:02
+page_view,"{""page_url"": ""/products/line"", ""referrer"": ""stuart-sanchez.net"", ""duration_seconds"": 216}",TNT-0130,USR-00112,2026-06-04 08:48:02
+checkout_completed,"{""item_id"": ""PRD-113"", ""price"": 453.8, ""currency"": ""USD""}",TNT-0136,USR-00090,2026-06-02 08:54:02
+page_view,"{""page_url"": ""/products/in"", ""referrer"": ""kirby-stewart.biz"", ""duration_seconds"": 89}",TNT-0123,USR-00163,2026-06-02 19:03:02
+checkout_completed,"{""item_id"": ""PRD-790"", ""price"": 223.63, ""currency"": ""USD""}",TNT-0087,USR-00038,2026-06-01 09:54:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (Windows 98) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/56.0.807.0 Safari/533.1"", ""ip_address"": ""7.33.102.34""}",TNT-0156,USR-00192,2026-06-04 16:23:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/34.0.832.0 Safari/534.2"", ""ip_address"": ""47.198.244.118""}",TNT-0177,USR-00107,2026-06-02 17:22:02
+add_to_cart,"{""item_id"": ""PRD-940"", ""price"": 126.42, ""currency"": ""USD""}",TNT-0058,USR-00110,2026-06-03 21:50:02
+checkout_completed,"{""item_id"": ""PRD-484"", ""price"": 221.4, ""currency"": ""USD""}",TNT-0177,USR-00051,2026-05-29 23:06:02
+add_to_cart,"{""item_id"": ""PRD-954"", ""price"": 466.84, ""currency"": ""USD""}",TNT-0112,USR-00028,2026-06-04 06:24:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/49.0.868.0 Safari/531.1"", ""ip_address"": ""219.20.54.41""}",TNT-0106,USR-00031,2026-06-02 07:07:02
+page_view,"{""page_url"": ""/products/her"", ""referrer"": ""castaneda.com"", ""duration_seconds"": 48}",TNT-0034,USR-00029,2026-06-05 02:10:02
+checkout_completed,"{""item_id"": ""PRD-358"", ""price"": 20.69, ""currency"": ""USD""}",TNT-0090,USR-00136,2026-06-04 08:54:02
+item_search,"{""search_query"": ""add"", ""results_count"": 35}",TNT-0008,USR-00128,2026-05-30 05:11:02
+page_view,"{""page_url"": ""/products/physical"", ""referrer"": ""brady.org"", ""duration_seconds"": 20}",TNT-0153,USR-00101,2026-05-28 18:31:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/49.0.815.0 Safari/535.2"", ""ip_address"": ""122.72.154.3""}",TNT-0027,USR-00018,2026-05-30 20:26:02
+add_to_cart,"{""item_id"": ""PRD-877"", ""price"": 63.67, ""currency"": ""USD""}",TNT-0055,USR-00137,2026-05-30 14:55:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/42.0.894.0 Safari/532.1"", ""ip_address"": ""63.139.199.15""}",TNT-0130,USR-00161,2026-05-31 03:59:02
+page_view,"{""page_url"": ""/products/charge"", ""referrer"": ""kane.com"", ""duration_seconds"": 300}",TNT-0052,USR-00090,2026-06-01 02:33:02
+item_search,"{""search_query"": ""blood"", ""results_count"": 11}",TNT-0005,USR-00125,2026-05-31 13:36:02
+checkout_completed,"{""item_id"": ""PRD-492"", ""price"": 141.72, ""currency"": ""USD""}",TNT-0128,USR-00074,2026-06-05 02:14:02
+item_search,"{""search_query"": ""dog"", ""results_count"": 7}",TNT-0125,USR-00101,2026-06-03 17:30:02
+add_to_cart,"{""item_id"": ""PRD-841"", ""price"": 348.21, ""currency"": ""USD""}",TNT-0059,USR-00199,2026-06-05 04:19:02
+checkout_completed,"{""item_id"": ""PRD-518"", ""price"": 336.4, ""currency"": ""USD""}",TNT-0032,USR-00160,2026-06-01 03:52:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/38.0.834.0 Safari/535.0"", ""ip_address"": ""213.89.149.2""}",TNT-0155,USR-00105,2026-05-30 19:04:02
+add_to_cart,"{""item_id"": ""PRD-202"", ""price"": 45.45, ""currency"": ""USD""}",TNT-0103,USR-00026,2026-06-04 05:28:02
+item_search,"{""search_query"": ""another"", ""results_count"": 10}",TNT-0085,USR-00186,2026-06-02 09:04:02
+item_search,"{""search_query"": ""upon"", ""results_count"": 34}",TNT-0121,USR-00180,2026-06-01 12:25:02
+page_view,"{""page_url"": ""/products/worry"", ""referrer"": ""marshall.org"", ""duration_seconds"": 253}",TNT-0175,USR-00095,2026-05-31 15:14:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/14.0.855.0 Mobile/50G270 Safari/532.2"", ""ip_address"": ""173.37.116.81""}",TNT-0108,USR-00178,2026-05-30 01:30:02
+page_view,"{""page_url"": ""/products/too"", ""referrer"": ""lopez.com"", ""duration_seconds"": 297}",TNT-0057,USR-00022,2026-06-04 00:52:02
+item_search,"{""search_query"": ""hold"", ""results_count"": 5}",TNT-0107,USR-00199,2026-06-05 09:33:02
+page_view,"{""page_url"": ""/products/add"", ""referrer"": ""reed.com"", ""duration_seconds"": 5}",TNT-0121,USR-00141,2026-06-02 01:19:02
+item_search,"{""search_query"": ""knowledge"", ""results_count"": 1}",TNT-0076,USR-00040,2026-06-05 02:39:02
+page_view,"{""page_url"": ""/products/fish"", ""referrer"": ""wagner-byrd.net"", ""duration_seconds"": 213}",TNT-0191,USR-00120,2026-05-31 03:27:02
+checkout_completed,"{""item_id"": ""PRD-200"", ""price"": 157.98, ""currency"": ""USD""}",TNT-0192,USR-00011,2026-06-05 11:30:02
+checkout_completed,"{""item_id"": ""PRD-743"", ""price"": 59.54, ""currency"": ""USD""}",TNT-0189,USR-00014,2026-06-02 15:46:02
+item_search,"{""search_query"": ""campaign"", ""results_count"": 34}",TNT-0174,USR-00055,2026-06-01 12:34:02
+item_search,"{""search_query"": ""second"", ""results_count"": 15}",TNT-0134,USR-00139,2026-05-28 20:50:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/35.0.834.0 Safari/536.0"", ""ip_address"": ""169.87.198.167""}",TNT-0077,USR-00139,2026-06-01 23:54:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/59.0.849.0 Mobile/34V903 Safari/533.1"", ""ip_address"": ""73.116.65.45""}",TNT-0120,USR-00036,2026-05-30 05:44:02
+item_search,"{""search_query"": ""opportunity"", ""results_count"": 48}",TNT-0040,USR-00035,2026-05-31 08:42:02
+item_search,"{""search_query"": ""song"", ""results_count"": 19}",TNT-0065,USR-00009,2026-05-30 01:41:02
+page_view,"{""page_url"": ""/products/himself"", ""referrer"": ""vincent.biz"", ""duration_seconds"": 32}",TNT-0006,USR-00072,2026-05-30 16:28:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_4) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/36.0.883.0 Safari/533.1"", ""ip_address"": ""79.9.107.81""}",TNT-0076,USR-00042,2026-05-29 09:30:02
+page_view,"{""page_url"": ""/products/economy"", ""referrer"": ""guzman.com"", ""duration_seconds"": 16}",TNT-0079,USR-00143,2026-05-28 22:20:02
+item_search,"{""search_query"": ""beat"", ""results_count"": 24}",TNT-0054,USR-00107,2026-05-30 15:32:02
+item_search,"{""search_query"": ""ok"", ""results_count"": 18}",TNT-0089,USR-00154,2026-06-01 07:41:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/17.0.866.0 Safari/535.2"", ""ip_address"": ""21.170.67.239""}",TNT-0028,USR-00142,2026-05-29 10:58:02
+checkout_completed,"{""item_id"": ""PRD-611"", ""price"": 36.21, ""currency"": ""USD""}",TNT-0123,USR-00194,2026-05-29 23:02:02
+page_view,"{""page_url"": ""/products/produce"", ""referrer"": ""pena.com"", ""duration_seconds"": 288}",TNT-0123,USR-00045,2026-06-05 07:08:02
+checkout_completed,"{""item_id"": ""PRD-488"", ""price"": 64.72, ""currency"": ""USD""}",TNT-0046,USR-00176,2026-06-02 11:19:02
+page_view,"{""page_url"": ""/products/voice"", ""referrer"": ""randolph.com"", ""duration_seconds"": 49}",TNT-0097,USR-00036,2026-06-04 01:10:02
+item_search,"{""search_query"": ""authority"", ""results_count"": 49}",TNT-0061,USR-00148,2026-06-05 06:32:02
+item_search,"{""search_query"": ""clearly"", ""results_count"": 28}",TNT-0045,USR-00199,2026-06-04 01:20:02
+page_view,"{""page_url"": ""/products/hold"", ""referrer"": ""johnson-lindsey.biz"", ""duration_seconds"": 237}",TNT-0096,USR-00067,2026-05-29 14:51:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/39.0.871.0 Safari/533.0"", ""ip_address"": ""124.132.155.182""}",TNT-0030,USR-00126,2026-06-02 04:00:02
+item_search,"{""search_query"": ""authority"", ""results_count"": 48}",TNT-0138,USR-00079,2026-05-30 14:59:02
+page_view,"{""page_url"": ""/products/dark"", ""referrer"": ""merritt.info"", ""duration_seconds"": 92}",TNT-0015,USR-00133,2026-05-28 19:37:02
+item_search,"{""search_query"": ""she"", ""results_count"": 35}",TNT-0127,USR-00041,2026-06-05 09:37:02
+item_search,"{""search_query"": ""save"", ""results_count"": 49}",TNT-0146,USR-00154,2026-06-02 06:45:02
+add_to_cart,"{""item_id"": ""PRD-273"", ""price"": 236.43, ""currency"": ""USD""}",TNT-0133,USR-00062,2026-05-30 08:25:02
+add_to_cart,"{""item_id"": ""PRD-650"", ""price"": 474.73, ""currency"": ""USD""}",TNT-0057,USR-00003,2026-05-29 00:28:02
+add_to_cart,"{""item_id"": ""PRD-795"", ""price"": 118.11, ""currency"": ""USD""}",TNT-0006,USR-00045,2026-06-03 21:20:02
+add_to_cart,"{""item_id"": ""PRD-448"", ""price"": 216.27, ""currency"": ""USD""}",TNT-0196,USR-00190,2026-05-30 17:50:02
+add_to_cart,"{""item_id"": ""PRD-570"", ""price"": 322.94, ""currency"": ""USD""}",TNT-0068,USR-00192,2026-06-04 10:12:02
+checkout_completed,"{""item_id"": ""PRD-822"", ""price"": 202.69, ""currency"": ""USD""}",TNT-0190,USR-00137,2026-05-30 06:21:02
+page_view,"{""page_url"": ""/products/require"", ""referrer"": ""becker-brennan.com"", ""duration_seconds"": 85}",TNT-0004,USR-00001,2026-05-31 10:13:02
+item_search,"{""search_query"": ""others"", ""results_count"": 28}",TNT-0080,USR-00001,2026-05-29 20:36:02
+add_to_cart,"{""item_id"": ""PRD-839"", ""price"": 115.77, ""currency"": ""USD""}",TNT-0080,USR-00065,2026-06-02 01:50:02
+checkout_completed,"{""item_id"": ""PRD-843"", ""price"": 354.49, ""currency"": ""USD""}",TNT-0192,USR-00135,2026-05-31 14:27:02
+item_search,"{""search_query"": ""child"", ""results_count"": 48}",TNT-0140,USR-00161,2026-06-04 10:57:02
+add_to_cart,"{""item_id"": ""PRD-395"", ""price"": 249.07, ""currency"": ""USD""}",TNT-0168,USR-00029,2026-06-02 05:02:02
+add_to_cart,"{""item_id"": ""PRD-294"", ""price"": 354.39, ""currency"": ""USD""}",TNT-0028,USR-00123,2026-05-30 18:11:02
+add_to_cart,"{""item_id"": ""PRD-997"", ""price"": 402.72, ""currency"": ""USD""}",TNT-0186,USR-00136,2026-05-28 20:19:02
+checkout_completed,"{""item_id"": ""PRD-422"", ""price"": 438.68, ""currency"": ""USD""}",TNT-0091,USR-00011,2026-05-28 15:48:02
+add_to_cart,"{""item_id"": ""PRD-789"", ""price"": 413.89, ""currency"": ""USD""}",TNT-0171,USR-00135,2026-05-30 21:47:02
+item_search,"{""search_query"": ""economic"", ""results_count"": 37}",TNT-0108,USR-00079,2026-05-30 20:27:02
+add_to_cart,"{""item_id"": ""PRD-769"", ""price"": 425.8, ""currency"": ""USD""}",TNT-0043,USR-00011,2026-06-01 15:21:02
+page_view,"{""page_url"": ""/products/analysis"", ""referrer"": ""brooks.com"", ""duration_seconds"": 163}",TNT-0051,USR-00192,2026-06-03 17:26:02
+add_to_cart,"{""item_id"": ""PRD-414"", ""price"": 93.07, ""currency"": ""USD""}",TNT-0019,USR-00159,2026-06-04 00:48:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/17.0.801.0 Safari/535.1"", ""ip_address"": ""154.212.87.47""}",TNT-0081,USR-00010,2026-06-03 02:54:02
+page_view,"{""page_url"": ""/products/outside"", ""referrer"": ""fuentes-bell.biz"", ""duration_seconds"": 177}",TNT-0060,USR-00044,2026-06-04 02:02:02
+item_search,"{""search_query"": ""standard"", ""results_count"": 17}",TNT-0195,USR-00062,2026-06-01 03:39:02
+page_view,"{""page_url"": ""/products/deep"", ""referrer"": ""hill-cooper.com"", ""duration_seconds"": 96}",TNT-0086,USR-00068,2026-06-04 20:02:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/17.0.809.0 Safari/535.0"", ""ip_address"": ""102.19.13.9""}",TNT-0097,USR-00048,2026-06-04 21:51:02
+add_to_cart,"{""item_id"": ""PRD-517"", ""price"": 16.18, ""currency"": ""USD""}",TNT-0139,USR-00128,2026-05-30 14:10:02
+checkout_completed,"{""item_id"": ""PRD-660"", ""price"": 368.62, ""currency"": ""USD""}",TNT-0056,USR-00102,2026-06-01 04:21:02
+checkout_completed,"{""item_id"": ""PRD-750"", ""price"": 177.57, ""currency"": ""USD""}",TNT-0102,USR-00085,2026-06-03 23:02:02
+add_to_cart,"{""item_id"": ""PRD-911"", ""price"": 371.48, ""currency"": ""USD""}",TNT-0157,USR-00054,2026-06-01 09:11:02
+item_search,"{""search_query"": ""car"", ""results_count"": 8}",TNT-0050,USR-00129,2026-06-02 08:58:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/19.0.812.0 Safari/536.1"", ""ip_address"": ""45.240.226.251""}",TNT-0073,USR-00131,2026-05-30 02:14:02
+checkout_completed,"{""item_id"": ""PRD-309"", ""price"": 401.65, ""currency"": ""USD""}",TNT-0037,USR-00016,2026-05-30 06:15:02
+checkout_completed,"{""item_id"": ""PRD-345"", ""price"": 470.32, ""currency"": ""USD""}",TNT-0029,USR-00200,2026-05-29 23:26:02
+checkout_completed,"{""item_id"": ""PRD-492"", ""price"": 479.53, ""currency"": ""USD""}",TNT-0014,USR-00160,2026-05-28 16:23:02
+add_to_cart,"{""item_id"": ""PRD-746"", ""price"": 489.03, ""currency"": ""USD""}",TNT-0156,USR-00019,2026-06-01 10:33:02
+item_search,"{""search_query"": ""network"", ""results_count"": 26}",TNT-0178,USR-00199,2026-05-30 05:07:02
+checkout_completed,"{""item_id"": ""PRD-369"", ""price"": 165.38, ""currency"": ""USD""}",TNT-0028,USR-00155,2026-05-29 05:09:02
+checkout_completed,"{""item_id"": ""PRD-610"", ""price"": 275.49, ""currency"": ""USD""}",TNT-0016,USR-00074,2026-05-28 17:34:02
+item_search,"{""search_query"": ""defense"", ""results_count"": 46}",TNT-0139,USR-00160,2026-06-02 03:14:02
+page_view,"{""page_url"": ""/products/various"", ""referrer"": ""scott.info"", ""duration_seconds"": 104}",TNT-0164,USR-00156,2026-05-31 14:12:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/46.0.866.0 Safari/535.2"", ""ip_address"": ""128.155.83.3""}",TNT-0164,USR-00068,2026-06-03 05:40:02
+page_view,"{""page_url"": ""/products/TV"", ""referrer"": ""howard.org"", ""duration_seconds"": 27}",TNT-0005,USR-00193,2026-05-30 15:42:02
+item_search,"{""search_query"": ""partner"", ""results_count"": 41}",TNT-0078,USR-00171,2026-05-29 05:24:02
+item_search,"{""search_query"": ""meet"", ""results_count"": 23}",TNT-0024,USR-00119,2026-06-03 09:10:02
+add_to_cart,"{""item_id"": ""PRD-990"", ""price"": 469.28, ""currency"": ""USD""}",TNT-0165,USR-00142,2026-05-28 14:33:02
+page_view,"{""page_url"": ""/products/determine"", ""referrer"": ""allen.biz"", ""duration_seconds"": 44}",TNT-0081,USR-00127,2026-05-28 23:33:02
+add_to_cart,"{""item_id"": ""PRD-482"", ""price"": 391.39, ""currency"": ""USD""}",TNT-0191,USR-00072,2026-06-02 19:30:02
+checkout_completed,"{""item_id"": ""PRD-807"", ""price"": 175.18, ""currency"": ""USD""}",TNT-0120,USR-00151,2026-05-29 12:06:02
+item_search,"{""search_query"": ""other"", ""results_count"": 0}",TNT-0117,USR-00105,2026-06-02 07:53:02
+item_search,"{""search_query"": ""heart"", ""results_count"": 6}",TNT-0079,USR-00161,2026-05-31 03:33:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/50.0.840.0 Safari/531.0"", ""ip_address"": ""98.6.130.6""}",TNT-0095,USR-00172,2026-05-30 05:14:02
+add_to_cart,"{""item_id"": ""PRD-358"", ""price"": 95.45, ""currency"": ""USD""}",TNT-0164,USR-00180,2026-05-28 16:25:02
+page_view,"{""page_url"": ""/products/try"", ""referrer"": ""rodriguez.org"", ""duration_seconds"": 14}",TNT-0049,USR-00177,2026-06-01 01:05:02
+add_to_cart,"{""item_id"": ""PRD-345"", ""price"": 214.84, ""currency"": ""USD""}",TNT-0116,USR-00019,2026-06-04 03:14:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/62.0.810.0 Mobile/37H163 Safari/531.2"", ""ip_address"": ""158.181.62.207""}",TNT-0048,USR-00105,2026-06-02 17:00:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Linux; Android 2.3.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/51.0.821.0 Safari/536.0"", ""ip_address"": ""162.93.109.193""}",TNT-0118,USR-00189,2026-06-01 09:16:02
+page_view,"{""page_url"": ""/products/agent"", ""referrer"": ""sanchez-alexander.biz"", ""duration_seconds"": 111}",TNT-0016,USR-00117,2026-05-31 02:34:02
+add_to_cart,"{""item_id"": ""PRD-553"", ""price"": 426.04, ""currency"": ""USD""}",TNT-0142,USR-00162,2026-06-01 05:52:02
+add_to_cart,"{""item_id"": ""PRD-985"", ""price"": 276.52, ""currency"": ""USD""}",TNT-0069,USR-00068,2026-06-03 15:56:02
+page_view,"{""page_url"": ""/products/across"", ""referrer"": ""simpson.com"", ""duration_seconds"": 56}",TNT-0114,USR-00094,2026-05-29 21:28:02
+page_view,"{""page_url"": ""/products/long"", ""referrer"": ""wallace-golden.org"", ""duration_seconds"": 205}",TNT-0163,USR-00128,2026-05-28 19:02:02
+item_search,"{""search_query"": ""resource"", ""results_count"": 9}",TNT-0138,USR-00152,2026-06-03 06:59:02
+add_to_cart,"{""item_id"": ""PRD-730"", ""price"": 239.12, ""currency"": ""USD""}",TNT-0032,USR-00100,2026-06-01 05:32:02
+add_to_cart,"{""item_id"": ""PRD-482"", ""price"": 38.29, ""currency"": ""USD""}",TNT-0132,USR-00088,2026-05-29 18:39:02
+page_view,"{""page_url"": ""/products/really"", ""referrer"": ""king.net"", ""duration_seconds"": 206}",TNT-0109,USR-00196,2026-05-30 13:24:02
+item_search,"{""search_query"": ""authority"", ""results_count"": 20}",TNT-0039,USR-00111,2026-05-31 15:07:02
+add_to_cart,"{""item_id"": ""PRD-583"", ""price"": 137.38, ""currency"": ""USD""}",TNT-0015,USR-00056,2026-05-30 01:34:02
+checkout_completed,"{""item_id"": ""PRD-567"", ""price"": 348.43, ""currency"": ""USD""}",TNT-0166,USR-00177,2026-05-31 08:38:02
+item_search,"{""search_query"": ""fine"", ""results_count"": 24}",TNT-0181,USR-00127,2026-05-30 12:35:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/48.0.892.0 Safari/533.2"", ""ip_address"": ""214.6.126.180""}",TNT-0082,USR-00152,2026-05-28 14:55:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/53.0.872.0 Safari/531.1"", ""ip_address"": ""139.81.93.238""}",TNT-0167,USR-00018,2026-05-28 22:04:02
+add_to_cart,"{""item_id"": ""PRD-805"", ""price"": 75.92, ""currency"": ""USD""}",TNT-0002,USR-00175,2026-06-03 10:35:02
+page_view,"{""page_url"": ""/products/others"", ""referrer"": ""jones.info"", ""duration_seconds"": 127}",TNT-0034,USR-00074,2026-06-02 11:02:02
+add_to_cart,"{""item_id"": ""PRD-593"", ""price"": 421.96, ""currency"": ""USD""}",TNT-0136,USR-00055,2026-06-04 12:19:02
+checkout_completed,"{""item_id"": ""PRD-920"", ""price"": 33.88, ""currency"": ""USD""}",TNT-0111,USR-00055,2026-06-03 07:18:02
+add_to_cart,"{""item_id"": ""PRD-415"", ""price"": 396.31, ""currency"": ""USD""}",TNT-0177,USR-00146,2026-06-03 20:42:02
+page_view,"{""page_url"": ""/products/sister"", ""referrer"": ""grimes.info"", ""duration_seconds"": 221}",TNT-0096,USR-00155,2026-05-28 19:48:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/48.0.841.0 Safari/536.2"", ""ip_address"": ""86.74.39.154""}",TNT-0176,USR-00162,2026-05-29 15:33:02
+add_to_cart,"{""item_id"": ""PRD-188"", ""price"": 459.69, ""currency"": ""USD""}",TNT-0108,USR-00180,2026-05-28 17:42:02
+page_view,"{""page_url"": ""/products/me"", ""referrer"": ""blackwell-andersen.com"", ""duration_seconds"": 163}",TNT-0168,USR-00008,2026-05-29 13:39:02
+page_view,"{""page_url"": ""/products/continue"", ""referrer"": ""phillips.com"", ""duration_seconds"": 68}",TNT-0055,USR-00009,2026-05-31 13:15:02
+page_view,"{""page_url"": ""/products/provide"", ""referrer"": ""soto-brady.org"", ""duration_seconds"": 284}",TNT-0163,USR-00154,2026-06-03 06:20:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/49.0.868.0 Safari/532.1"", ""ip_address"": ""42.191.179.196""}",TNT-0089,USR-00039,2026-05-31 17:24:02
+page_view,"{""page_url"": ""/products/few"", ""referrer"": ""glover.com"", ""duration_seconds"": 186}",TNT-0020,USR-00015,2026-05-31 12:48:02
+item_search,"{""search_query"": ""view"", ""results_count"": 12}",TNT-0112,USR-00041,2026-05-31 09:48:02
+add_to_cart,"{""item_id"": ""PRD-481"", ""price"": 375.34, ""currency"": ""USD""}",TNT-0102,USR-00045,2026-06-02 02:01:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Windows 98) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/24.0.827.0 Safari/535.0"", ""ip_address"": ""151.190.68.2""}",TNT-0141,USR-00104,2026-06-03 08:48:02
+add_to_cart,"{""item_id"": ""PRD-796"", ""price"": 432.87, ""currency"": ""USD""}",TNT-0128,USR-00123,2026-05-30 15:55:02
+checkout_completed,"{""item_id"": ""PRD-694"", ""price"": 375.93, ""currency"": ""USD""}",TNT-0193,USR-00052,2026-06-05 12:39:02
+item_search,"{""search_query"": ""trip"", ""results_count"": 22}",TNT-0096,USR-00050,2026-06-04 14:20:02
+page_view,"{""page_url"": ""/products/expect"", ""referrer"": ""williams-lee.com"", ""duration_seconds"": 134}",TNT-0115,USR-00166,2026-06-04 07:25:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/53.0.851.0 Safari/534.1"", ""ip_address"": ""99.231.2.202""}",TNT-0080,USR-00048,2026-06-03 18:59:02
+add_to_cart,"{""item_id"": ""PRD-530"", ""price"": 222.14, ""currency"": ""USD""}",TNT-0086,USR-00155,2026-05-28 14:21:02
+item_search,"{""search_query"": ""start"", ""results_count"": 8}",TNT-0134,USR-00034,2026-05-30 18:14:02
+page_view,"{""page_url"": ""/products/sort"", ""referrer"": ""hansen-mcdonald.com"", ""duration_seconds"": 267}",TNT-0105,USR-00060,2026-06-04 14:22:02
+checkout_completed,"{""item_id"": ""PRD-196"", ""price"": 234.0, ""currency"": ""USD""}",TNT-0129,USR-00175,2026-06-04 23:39:02
+user_login,"{""device"": ""Mobile"", ""browser"": ""Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/21.0.824.0 Safari/534.0"", ""ip_address"": ""85.133.4.61""}",TNT-0080,USR-00025,2026-05-28 23:13:02
+item_search,"{""search_query"": ""response"", ""results_count"": 13}",TNT-0133,USR-00122,2026-06-03 08:07:02
+user_login,"{""device"": ""Tablet"", ""browser"": ""Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/63.0.816.0 Mobile/20D312 Safari/532.1"", ""ip_address"": ""163.157.34.158""}",TNT-0068,USR-00163,2026-06-01 15:46:02
+add_to_cart,"{""item_id"": ""PRD-935"", ""price"": 390.02, ""currency"": ""USD""}",TNT-0014,USR-00066,2026-06-04 07:37:02
+item_search,"{""search_query"": ""rich"", ""results_count"": 26}",TNT-0002,USR-00052,2026-06-01 15:50:02
+add_to_cart,"{""item_id"": ""PRD-651"", ""price"": 238.34, ""currency"": ""USD""}",TNT-0037,USR-00116,2026-05-31 19:33:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/19.0.822.0 Safari/531.0"", ""ip_address"": ""108.106.215.187""}",TNT-0191,USR-00097,2026-05-31 16:37:02
+page_view,"{""page_url"": ""/products/sea"", ""referrer"": ""dennis.net"", ""duration_seconds"": 119}",TNT-0160,USR-00032,2026-06-04 10:35:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/23.0.892.0 Mobile/64O984 Safari/535.2"", ""ip_address"": ""196.129.205.210""}",TNT-0162,USR-00053,2026-05-28 21:41:02
+page_view,"{""page_url"": ""/products/possible"", ""referrer"": ""bates-gordon.biz"", ""duration_seconds"": 44}",TNT-0123,USR-00096,2026-06-03 20:30:02
+add_to_cart,"{""item_id"": ""PRD-209"", ""price"": 435.65, ""currency"": ""USD""}",TNT-0017,USR-00180,2026-06-03 17:25:02
+add_to_cart,"{""item_id"": ""PRD-605"", ""price"": 81.09, ""currency"": ""USD""}",TNT-0008,USR-00143,2026-06-03 07:08:02
+add_to_cart,"{""item_id"": ""PRD-367"", ""price"": 170.17, ""currency"": ""USD""}",TNT-0055,USR-00133,2026-05-29 01:07:02
+user_login,"{""device"": ""Desktop"", ""browser"": ""Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/35.0.893.0 Safari/532.2"", ""ip_address"": ""5.61.77.161""}",TNT-0074,USR-00091,2026-06-05 12:34:02
+add_to_cart,"{""item_id"": ""PRD-410"", ""price"": 338.13, ""currency"": ""USD""}",TNT-0167,USR-00068,2026-06-01 07:42:02
