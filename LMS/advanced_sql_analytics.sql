@@ -1,4 +1,4 @@
--- --For each course, calculate:
+--11. --For each course, calculate:
 -- Total number of enrolled users
 -- Total number of lessons
 -- Average lesson duration
@@ -11,7 +11,7 @@ join lessons as l
 on e.course_id=l.course_id
 group by c.course_id,c.course_name;
 
---Identify the top three most active users based on total activity count.
+--12. Identify the top three most active users based on total activity count.
 
 select u.user_id,u.user_name,count(a.activity_id) as activity_count
 from users as u
@@ -22,4 +22,13 @@ order by activity_count desc
 limit 3;
 
 
---Calculate course completion percentage per user based on lesson activity.
+--13. Calculate course completion percentage per user based on lesson activity.
+select 
+
+--Rank users within each course based on their total assessment score.
+select u.user_id,u.user_name,c.course_id,sum()
+from users as u
+join courses as c
+on u.user_id=c.user_id
+group by c.course_id
+rank() over()
