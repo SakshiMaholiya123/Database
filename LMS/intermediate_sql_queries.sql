@@ -42,6 +42,3 @@ from users as u
 left join enrollments as e
 on u.user_id=e.user_id
 where e.status='inactive';
-
-
-
